@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, login!</string>
+    <string name="app_name">UILab</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="logoDescription">NetRunners Logo</string>
+    <string name="loginButton">Login</string>
+
+</resources>
